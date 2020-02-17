@@ -1,0 +1,28 @@
+{
+  "name": "ethgames-contracts",
+  "version": "1.0.0",
+  "description": "Contracts for ethgames",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chentschel/ethgames-contracts.git"
+  },
+  "keywords": [
+    "ethereum"
+  ],
+  "author": "Christian Hentschel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chentschel/ethgames-contracts/issues"
+  },
+  "homepage": "https://github.com/chentschel/ethgames-contracts#readme",
+  "dependencies": {
+    "openzeppelin-eth": "^2.1.3",
+    "truffle": "^5.0.2",
+    "truffle-flattener": "^1.3.0",
+    "zos-lib": "^2.2.0"
+  }
+}
